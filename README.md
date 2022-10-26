@@ -1,3 +1,5 @@
+# About Me
+
 I’m @MattEvanoff
 
 I am a Software engineer living in Asheville, NC.
@@ -18,7 +20,7 @@ You can connect with me on LinkedIn here: https://www.linkedin.com/in/mattevanof
 
 If you want to contact me...I'm sure you can figure out how.
 
-Noteable-Notes:
+# Noteable-Notes:
 
 As far as I know, I am the first person to add the feature to Netflix to have it automatically play the next episode - I'll bet you don't even remember that it didn't always do that.  You can see the progession of my work on the project in a few of my repos - including creating an actual browser extension that could put your computer to sleep when it is done playing...Did you even know it was possible to get a browser to shut down your computer?  
 
