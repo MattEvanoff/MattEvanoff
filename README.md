@@ -18,6 +18,20 @@ You can connect with me on LinkedIn here: https://www.linkedin.com/in/mattevanof
 
 If you want to contact me...I'm sure you can figure out how.
 
+Noteable-Notes:
+
+As far as I know, I am the first person to add the feature to Netflix to have it automatically play the next episode - I'll bet you don't even remember that it didn't always do that.  You can see the progession of my work on the project in a few of my repos - including creating an actual browser extension that could put your computer to sleep when it is done playing...Did you even know it was possible to get a browser to shut down your computer?  
+
+https://github.com/MattEvanoff/Netflix-Autoplay-Bookmarklet
+
+https://github.com/MattEvanoff/Netflix-HTML5-Autoplay-Bookmarklet
+
+https://github.com/MattEvanoff/Netflix-Autoplay-Chrome-Extension
+
+Also, here is a demo of a tool I made for creating request lists from inspection reports:
+
+https://homegauge.com/gingerbread/demo.htmls#/Section/0
+
 <!---
 MattEvanoff/MattEvanoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
