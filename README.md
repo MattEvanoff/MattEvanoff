@@ -30,7 +30,7 @@ https://github.com/MattEvanoff/Netflix-HTML5-Autoplay-Bookmarklet
 
 https://github.com/MattEvanoff/Netflix-Autoplay-Chrome-Extension
 
-Also, here is a demo of a tool I made for creating request lists from inspection reports:
+Also, here is a demo of a tool I made for creating request lists from inspection reports - this is written in AngularJS with a Java Spring backend, and no, I would not like to do more of either of those:
 
 https://homegauge.com/gingerbread/demo.htmls#/Section/0
 
