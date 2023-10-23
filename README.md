@@ -34,6 +34,10 @@ Also, here is a demo of a tool I made for creating request lists from inspection
 
 https://homegauge.com/gingerbread/demo.htmls#/Section/0
 
+# Quoteable-Quotes:
+
+"I wind up categorizing periods of my life by how rich my learning experiences were at the time." -John Carmack
+
 <!---
 MattEvanoff/MattEvanoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
