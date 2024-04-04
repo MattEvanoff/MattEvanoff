@@ -34,7 +34,7 @@ Also, here is a demo of a tool I made for creating request lists from inspection
 
 https://homegauge.com/gingerbread/demo.htmls#/Section/0
 
-# Quoteable-Quotes:
+# Quotable-Quotes:
 
 "I wind up categorizing periods of my life by how rich my learning experiences were at the time." -John Carmack
 
